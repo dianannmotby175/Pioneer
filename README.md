@@ -219,4 +219,4 @@ Pioneer is offered as a full free version with all features and updates included
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-09-20 23:49:37 UTC
+**Last updated:** 2026-09-21 01:57:53 UTC
